@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "nodenext",
+    "rootDir": "./src",
+    "esModuleInterop": true,
+    "target": "es6",
+    "moduleResolution": "nodenext",
+    "types": ["node"],
+    "sourceMap": true,
+    "outDir": "./dist"
+  },
+  "lib": ["es2015"]
+}
